@@ -13,4 +13,8 @@ public void basla()
     {
         Application.Quit();
     }
+    public void Samene()
+    {
+        SceneManager.LoadScene("SampleScene");
+    }
 }
